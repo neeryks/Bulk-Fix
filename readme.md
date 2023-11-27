@@ -7,14 +7,14 @@ This Python script allows you to add a specific script to the end of HTML files 
 1. **Clone the repository or download the script.**
 
     ```bash
-    git clone https://github.com/your-username/html-script-inserter.git
-    cd html-script-inserter
+    git clone https://github.com/neeryks/bulkfix.git
+    cd bulkfix
     ```
 
 2. **Run the script by executing the following command in your terminal.**
 
     ```bash
-    python add_script_to_html.py
+    python bulkfix.py
     ```
 
 3. **Enter the directory path when prompted.**
